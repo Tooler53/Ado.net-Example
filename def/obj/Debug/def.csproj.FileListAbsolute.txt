@@ -1,0 +1,21 @@
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\bin\Debug\def.exe.config
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\bin\Debug\def.exe
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\bin\Debug\def.pdb
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.csprojResolveAssemblyReference.cache
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.Form1.resources
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.Properties.Resources.resources
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.csproj.GenerateResource.Cache
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.exe
+\\support\userprofiles$\16797\documents\visual studio 2015\Projects\def\def\obj\Debug\def.pdb
+C:\Users\Константин\Desktop\def\def\bin\Debug\def.exe.config
+C:\Users\Константин\Desktop\def\def\obj\Debug\def.exe
+C:\Users\Константин\Desktop\def\def\obj\Debug\def.pdb
+E:\БД\def\def\bin\Debug\def.exe.config
+E:\БД\def\def\bin\Debug\def.exe
+E:\БД\def\def\bin\Debug\def.pdb
+E:\БД\def\def\obj\Debug\def.csprojResolveAssemblyReference.cache
+E:\БД\def\def\obj\Debug\def.Form1.resources
+E:\БД\def\def\obj\Debug\def.Properties.Resources.resources
+E:\БД\def\def\obj\Debug\def.csproj.GenerateResource.Cache
+E:\БД\def\def\obj\Debug\def.exe
+E:\БД\def\def\obj\Debug\def.pdb
